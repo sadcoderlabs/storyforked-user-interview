@@ -12,10 +12,10 @@
 
 ## 安裝
 
-請從這個 repo 的 `assets/` 下載兩個 zip 檔：
+請從這個 repo 的 [Releases](https://github.com/sadcoderlabs/storyforked-user-interview/releases/latest) 頁面下載兩個 zip 檔：
 
-- [**story-analyzer.zip**](assets/story-analyzer.zip) — 故事分析 skill
-- [**story-player.zip**](assets/story-player.zip) — 故事遊玩 skill
+- [**story-analyzer.zip**](https://github.com/sadcoderlabs/storyforked-user-interview/releases/latest/download/story-analyzer.zip) — 故事分析 skill
+- [**story-player.zip**](https://github.com/sadcoderlabs/storyforked-user-interview/releases/latest/download/story-player.zip) — 故事遊玩 skill
 
 裡面沒有程式碼，只有 `.md` 和 `.yaml` 檔案 — 都是故事模板和 skill 定義。
 
